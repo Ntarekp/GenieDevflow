@@ -1,5 +1,11 @@
 "use client"
 
-export default function Hello(){
-    
+function Hello(){
+
+    return(
+        <div>
+            <h1>Hello</h1>
+        </div>
+    )
 }
+export default Hello; 
